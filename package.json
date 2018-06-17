@@ -1,0 +1,23 @@
+{
+  "name": "mysql-ri",
+  "version": "1.0.0",
+  "description": "Interfaz para operaciones en mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+hhttps://github.com/lmatamoros/mysql-ri.git"
+  },
+  "author": "ld.matamoros@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "hhttps://github.com/lmatamoros/mysql-ri/issues"
+  },
+  "homepage": "hhttps://github.com/lmatamoros/mysql-ri#README",
+  "dependencies": {
+    "mysql": "2.15.0",
+    "q": "1.5.1"
+  }
+}
